@@ -1,5 +1,5 @@
 # BudgetTracker
- Budget Tracker  - link to the repo :  https://github.com/VeselinAtanasov/JavaScript-Web/tree/master/ReactJS/FINAL_EXAM/budget-tracker
+ Budget Tracker is a app developed on ReactJs - link to the repo :  https://github.com/VeselinAtanasov/JavaScript-Web/tree/master/ReactJS/FINAL_EXAM/budget-tracker
 ## Idea
  Budget Tracker is an application, from which you can track all your incomes financial incomes and outcomes.
  The app allows to enter your monthly/daily incomes and expenses and based on some calculations to advise you how to reduce your expenses.
